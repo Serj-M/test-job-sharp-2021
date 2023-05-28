@@ -1,0 +1,14 @@
+{
+  "en": {
+    "header": "I am Sergey",
+    "choice": "What language would you like to communicate in? :",
+    "text": "Hello colleagues!",
+    "portfolio": "Portfolio"
+  },
+  "ru": {
+    "header": "Я Сергей",
+    "choice": "На каком языке Вам хочется пообщаться? :",
+    "text": "Здравствуйте, коллеги!",
+    "portfolio": "Портфолио"
+  }
+}
